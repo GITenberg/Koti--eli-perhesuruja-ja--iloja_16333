@@ -1,0 +1,40 @@
+_repo: Koti--eli-perhesuruja-ja--iloja_16333
+_version: 0.1.0
+alternative_title: Hemmet. Finnish
+contributor:
+  translator:
+    agent_name: Suppanen, Alma
+    alias: A--a
+    birthdate: 1858
+    deathdate: 1937
+    gutenberg_agent_id: '6629'
+    url: http://www.gutenberg.org/2009/agents/6629
+    wikipedia: http://fi.wikipedia.org/wiki/Alma_Suppanen
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bremer, Fredrika
+    aliases:
+    - Bremer, Frederika
+    - Bremer, Frederica
+    birthdate: 1801
+    deathdate: 1865
+    gutenberg_agent_id: '1775'
+    url: http://www.gutenberg.org/2009/agents/1775
+    wikipedia: http://en.wikipedia.org/wiki/Fredrika_Bremer
+description: ''
+gutenberg_issued: '2005-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16333'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Sweden -- Social life and customs -- 19th century -- Fiction'
+title: 'Koti: eli perhesuruja ja -iloja'
+url: http://www.gutenberg.org/ebooks/16333
